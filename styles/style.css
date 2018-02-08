@@ -1,0 +1,51 @@
+body {
+  background-color: #0c0129;
+  width: 900px;
+  margin: 0 auto;
+  color: white;
+  border: 5px solid black;
+  padding: 0 20px 20px 20px;
+  text-align: center;
+  border: bl
+}
+
+html {
+  background-color: #000000;
+  font-size: 25px;
+}
+
+img {
+  border-radius: 10%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+h5{
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+  font-family: roboto;
+  font-size-adjust: auto;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: white;
+
+}
+
+h4 {
+
+  color: white;
+
+
+}
+
+p {
+  text-align: right;
+  font-family: fantasy;
+}
