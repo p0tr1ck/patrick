@@ -3,15 +3,16 @@ body {
   width: 900px;
   margin: 0 auto;
   color: white;
-  border: 5px solid black;
   padding: 0 20px 20px 20px;
   text-align: center;
-  border: bl
+  background-image: url(../images/put.jpg);
+
 }
 
 html {
   background-color: #000000;
   font-size: 25px;
+  background-image: url(../images/sid.jpg);
 }
 
 img {
@@ -50,5 +51,5 @@ p {
   font-family: fantasy;
 }
 h3 {
-  font-size: 40x;
+  font-size: 40px;
 }
