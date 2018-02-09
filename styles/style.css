@@ -36,14 +36,12 @@ h1 {
 h2{
   text-align: center;
   color: white;
+  font-size: 30
 
 }
 
 h4 {
-
   color: white;
-
-
 }
 
 p {
@@ -51,5 +49,17 @@ p {
   font-family: fantasy;
 }
 h3 {
-  font-size: 40px;
+   font-size: 40px;
+}
+
+#button {
+  background-color: #000000;
+  padding-bottom: 0 20px 20px 20px;
+  width: 100px;
+  cursor: pointer;
+  color: #fffa86;
+}
+
+#button: hover{
+  background-color: #ffffff;
 }
